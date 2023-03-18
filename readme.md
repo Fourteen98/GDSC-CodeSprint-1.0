@@ -6,7 +6,7 @@
 - Use ES6 syntax.
 - Use ES6 modules.
 - Use callbacks and promises.
-- Use webpack.
+- [Use webpack.](https://webpack.js.org/guides/getting-started/)
 - Apply JavaScript best practices and language style guides in code.
 - Use AAA pattern for unit tests.
 - Write units tests for a JavaScript app.
